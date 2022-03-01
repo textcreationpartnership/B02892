@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death's uncontrollable summons; or, The mortality of mankind. Being a dialogue between death and a young-man. To the tune of, My bleeding heart.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02892</idno>
+            <idno type="STC">Wing D505</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[103]</idno>
+            <idno type="EEBO-CITATION">99884495</idno>
+            <idno type="PROQUEST">ocm99884495</idno>
+            <idno type="VID">183296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183296)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death's uncontrollable summons; or, The mortality of mankind. Being a dialogue between death and a young-man. To the tune of, My bleeding heart.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "In slumber and sleep my senses fail'd ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="103" facs="tcp:183296:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>Death's Uncontrollable Summons; OR, <hi>The Mortality of MANKIND.</hi>
+            </head>
+            <head type="sub">Being a Dialogue between <hi>DEATH</hi> and a <hi>YOUNG-MAN.</hi>
+            </head>
+            <opener>To the Tune of, <hi>My Bleeding Heart.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N ſlumber and Sleep my ſenſes fail'd,</l>
+               <l>hey ho, hey ho, then ſlept I;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he bright Sun rais'd a miſt withall,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eclipſed in the darkſome Sky.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n antient Father ſtood by me,</l>
+               <l>hey ho, hey ho, hollow eyes,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> foul deformed Wight was he</l>
+               <l>I thought my youth did him deſpite.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Cloak was green his head was gray,</l>
+               <l>hey ho, hey ho, ſilver hair,</l>
+               <l>His Face was pale as any clay</l>
+               <l>his Countenance made me much to fear.</l>
+            </lg>
+            <lg>
+               <l>Amazed at the ſuddain ſight,</l>
+               <l>hey ho, hey ho, youthful boy;</l>
+               <l>I ſtood as one amazed quite,</l>
+               <l>hey ho, hey ho, diſmal day,</l>
+            </lg>
+            <lg>
+               <l>Father, quoth I, tell me your name,</l>
+               <l>hey ho, hy ho, tell me true,</l>
+               <l>I pray you tell to me the ſame,</l>
+               <l>my joynts do tremble at thy view</l>
+            </lg>
+            <lg>
+               <l>Young Youth, quoth he, I tell to thee</l>
+               <l>hey ho, hey ho, thy thred is ſpun;</l>
+               <l>My name is Death, I come for thee</l>
+               <l>hey ho, hey ho, thy Glaſs is run.</l>
+            </lg>
+            <lg>
+               <l>For me ſweet Death I hope not ſo;</l>
+               <l>hey ho, hey ho, I am young;</l>
+               <l>Let me be old before I go,</l>
+               <l>alaſs! my time hath not been long.</l>
+            </lg>
+            <lg>
+               <l>I have this worldly wealth at will,</l>
+               <l>hey ho, hey ho, ask and have,</l>
+               <l>Let me enjoy thoſe Pleaſures ſtill,</l>
+               <l>oh my Soul abhors the Grave.</l>
+            </lg>
+            <lg>
+               <l>I ſcorn thy Treaſure and thy Pelf,</l>
+               <l>hey ho, hey ho, haſte away,</l>
+               <l>Thy goods ſhall periſh with thy ſelf,</l>
+               <l>'tis not thy Wealth, my ſtroak ſhall ſtay.</l>
+            </lg>
+            <lg>
+               <l>Oh Death! what will my true Love ſay?</l>
+               <l>hey ho, hey ho, ſhee'l complain</l>
+               <l>On thee, for taking me away;</l>
+               <l>ſweet Death with her let me remain.</l>
+            </lg>
+            <lg>
+               <l>I tell thee yet, thou ſtriveſt in vain,</l>
+               <l>hey ho, hey ho, go 'tis time;</l>
+               <l>Thy vital thread is cut in twain,</l>
+               <l>oh hark and hear the dulſome Chyme.</l>
+            </lg>
+            <lg>
+               <l>Then woe is me! I muſt be gone,</l>
+               <l>hey ho, hey ho, my heart,</l>
+               <l>My Worlds delight and all is gone,</l>
+               <l>there was never man ſo loath to parts.</l>
+            </lg>
+            <lg>
+               <l>Mark well my Fall you youthful Buds;</l>
+               <l>hey ho, hey ho, view my Fall,</l>
+               <l>My Pleaſures, Plenty Life and Goods,</l>
+               <l>hey ho, hey ho, Death ends all.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby at the Golden Ball in Pye-corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
